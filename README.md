@@ -1,52 +1,130 @@
-# 👋 مرحباً! أنا Mohamed Tohamy Mahmoud Ahmed
+<p align="center">
+<img src="./assets/banner.svg"/>
+</p>
 
-Frontend Developer | React & JavaScript Enthusiast | Open Source Contributor
+<h1 align="center">Hi 👋, I'm Mohamed Tohamy</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-mohamed-tohamy)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohamed-tohamy2000)
+<h3 align="center">
+Frontend Developer | React.js Specialist
+</h3>
 
----
-
-## 💡 نبذة عني
-أنا مطور Frontend شغوف بابتكار واجهات مستخدم تفاعلية وسريعة باستخدام **React**, **TailwindCSS**, و**JavaScript**. أحب تحويل التصميمات إلى تطبيقات جذابة وسلسة وتجربة المستخدم المثالية.
-
----
-
-## 🛠️ المهارات التقنية
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/Strapi-000000?style=for-the-badge&logo=strapi&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Building+Modern+Web+Apps;JavaScript+Engineer&center=true&width=500&height=45&color=58a6ff">
+</p>
 
 ---
 
-## 🚀 المشاريع
-### We Office Land
-**وصف المشروع:**  
-We Office Land هو مشروع ويب حديث يتيح للمستخدمين استكشاف وشراء أو استئجار مساحات عمل ومكاتب بشكل تفاعلي وسلس. تم تصميم الواجهة لتكون سهلة الاستخدام وسريعة الاستجابة، مع التركيز على تجربة المستخدم المثالية.  
-المشروع مبني باستخدام **React** و**TailwindCSS** ويعتمد على **Strapi CMS** لإدارة المحتوى.  
+# 🚀 About Me
 
-🌐 [زيارة المشروع](https://we-office-land.vercel.app/)
+💻 Front-End Developer focused on building **modern responsive web applications**
 
----
+⚡ Specialized in **React.js, JavaScript, TailwindCSS**
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamed-tohamy2000&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tohamy2000&layout=compact&theme=radical)
+🎯 I focus on:
 
----
-
-## 🌟 اهتمامات
-- تصميم واجهات جذابة وسريعة  
-- تحسين تجربة المستخدم  
-- التعلم المستمر ومواكبة أحدث تقنيات Frontend  
+- Clean architecture
+- Reusable components
+- UI performance
+- User experience
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+# 🛠 Tech Stack
+
+### Frontend
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=js" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=tailwind" />
+<img src="https://skillicons.dev/icons?i=bootstrap" />
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
+### 🛒 E-Commerce Platform
+
+React based ecommerce project.
+
+Features
+
+- Responsive UI
+- Clean architecture
+- Reusable components
+- Fast performance
+
+---
+
+### 🌐 Portfolio Website
+
+Personal portfolio built with **React + Tailwind**
+
+Features
+
+- Dark / Light Mode
+- Smooth animations
+- Mobile responsive
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamed-tohamy2000&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-tohamy2000&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohamed-tohamy2000&theme=onedark&no-frame=true&margin-w=10"/>
+
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mohamed-tohamy2000&color=blue"/>
+
+</p>
+
+---
+
+# 📫 Contact Me
+
+📧 Email  
+mohamedtohamy348@gmail.com  
+
+💼 LinkedIn  
+linkedin.com/in/dev-mohamed-tohamy  
+
+📍 Cairo, Egypt
+
+---
+
+⭐ Always learning and building modern web experiences
